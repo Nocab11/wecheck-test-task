@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wecheck-test-task/static/css/main.baa93d05.css",
+    "main.js": "/wecheck-test-task/static/js/main.28e4b041.js",
+    "index.html": "/wecheck-test-task/index.html",
+    "main.baa93d05.css.map": "/wecheck-test-task/static/css/main.baa93d05.css.map",
+    "main.28e4b041.js.map": "/wecheck-test-task/static/js/main.28e4b041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa93d05.css",
+    "static/js/main.28e4b041.js"
+  ]
+}
